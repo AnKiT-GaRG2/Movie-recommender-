@@ -8,3 +8,4 @@ filelock
 streamlit
 pandas
 requests
+gunicorn==19.7.1
