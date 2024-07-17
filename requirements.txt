@@ -1,5 +1,0 @@
-pandas
-pickle
-gunicorn
-streamlit
-requests
