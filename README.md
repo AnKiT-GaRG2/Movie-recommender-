@@ -13,7 +13,7 @@ The Movie Recommender System is a web application that suggests movies to users 
 
 1. Clone the repository:
    ```
-   git clone 
+   git clone https://github.com/AnKiT-GaRG2/Movie-recommender-.git
    cd movie-recommender-system
    ```
 
